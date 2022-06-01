@@ -1,1 +1,2 @@
 Archivo listo para subir con git push al repositorio remoto
+Arreglado el mundo remoto!!!
